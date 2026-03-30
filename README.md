@@ -28,21 +28,22 @@
 
 ---
 
-### 🏆 Featured Project: OpenShelf
-> **My Masterpiece:** A high-performance **Library Management System**.
+### 🏆 Featured Project: OpenShelf (My Best Work)
+> **OpenShelf** একটি আধুনিক **Library Management System** যা পারফরম্যান্স এবং ডেটা স্ট্রাকচারের ওপর ভিত্তি করে তৈরি।
 
-| Feature | Description |
+| Feature | Technical Detail |
 | :--- | :--- |
-| **Engine** | Custom PHP Logic with JSON storage (No-DB Architecture) |
-| **Security** | Role-Based Access Control (RBAC) for Admin & Members |
-| **UX/UI** | Minimalist, high-speed interface with real-time indexing |
+| **Core Engine** | Built with **PHP** and high-speed **JSON-based storage**. |
+| **Access Control** | Integrated **Role-Based Access Control (RBAC)** for Admin & Members. |
+| **Data Flow** | Efficient handling of book indexing, issues, and return tracking. |
+| **Architecture** | Lightweight and "No-Database" approach for maximum speed. |
 
 ---
 
-### 📂 Other Notable Works
-- 📝 **Epistora:** A modern blog-sharing platform using hybrid storage.
-- 💰 **SaveCircle:** Community savings management with automated tracking.
-- 🪞 **Mirror:** Personal productivity suite with streak-tracking & daily reports.
+### 📂 Other Notable Projects
+- 📝 **Epistora:** A modern blog-sharing platform using hybrid SQL & JSON storage.
+- 💰 **SaveCircle:** Community savings management with automated payment tracking.
+- 🪞 **Mirror:** Personal productivity suite with streak-tracking and daily reports.
 
 ---
 
@@ -50,10 +51,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" width="100%" />
 </p>
 
 ---
