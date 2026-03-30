@@ -1,65 +1,66 @@
-<h1 align="center">Hi 👋, I'm Md. Asraful Islam</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Applied+Mathematics+Student;Intermediate+Web+Architect;Linux+Customization+Enthusiast;PHP+%26+JSON+Stack+Expert" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Md. Asraful Islam  
+
+## 🚀 About Me  
+I’m a student of **University of Dhaka**, studying in the **Department of Applied Mathematics**.  
+
+I’m a passionate self-taught developer who loves building practical web applications.  
+I enjoy creating clean, user-friendly interfaces and solving real-world problems with simple solutions.  
+
+Currently, I’m focused on:  
+- 📚 Building useful platforms like book-sharing systems  
+- 🌐 Improving my full-stack web development skills  
+- 🎨 Designing modern, mobile-first UI/UX  
+
+
+## 🛠️ Skills  
+
+**Frontend**  
+- HTML5  
+- CSS3 (Mobile-First Design)  
+- JavaScript (Basic to Intermediate)  
+
+**Backend**  
+- PHP (Core PHP)  
+- JSON-based data handling  
+
+**Other**  
+- Git & GitHub  
+- Responsive Web Design  
+- UI/UX Improvement  
+
+
+## 📌 Projects  
+
+### 📚 OpenShelf  
+A community-based book sharing platform.  
+
+**Features:**  
+- 📖 Add and manage books  
+- 🔍 Browse and search books  
+- 🤝 Borrow request system  
+- 📰 Activity feed (community timeline)  
+- 📱 Mobile-first responsive design  
+
+👉 This is my best and most active project.  
+
+
+## 🤝 Contributions  
+
+I actively work on personal and collaborative projects, contributing to different ideas and platforms.  
+
+- 🔧 **OpenShelf** – Full development and continuous improvement  
+- 🌐 **Mirror** – Contributed to development and feature ideas  
+- ✍️ **Epistora** – Worked on platform concept and improvements  
+- 💡 Exploring new project ideas and building experimental features  
+- 📈 Continuously improving code quality and UI/UX  
+
+
+## 📬 Get in Touch  
+
+- 📧 Email: your-email@example.com  
+- 🌐 GitHub: https://github.com/your-username  
+
 
 ---
 
-### 💫 About Me
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark" />
-
-- 🎓 **Academic:** Studying **Applied Mathematics** at the *University of Dhaka*.
-- 💻 **Dev Life:** Passionate about building lightweight, high-performance web systems.
-- 🛠️ **Favorite Stack:** Crafting robust backends using **PHP** and **JSON**-based data structures.
-- 🐧 **Linux:** Obsessed with making Ubuntu look like a masterpiece (Ultra-Mac GNOME setup).
-- 📸 **Photography:** Love capturing moments with optimized **GCam** & **LMC8.4** configs.
-
----
-
-### 🚀 Technical Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 🏆 Featured Project: OpenShelf (My Best Work)
-> **OpenShelf** একটি আধুনিক **Library Management System** যা পারফরম্যান্স এবং ডেটা স্ট্রাকচারের ওপর ভিত্তি করে তৈরি।
-
-| Feature | Technical Detail |
-| :--- | :--- |
-| **Core Engine** | Built with **PHP** and high-speed **JSON-based storage**. |
-| **Access Control** | Integrated **Role-Based Access Control (RBAC)** for Admin & Members. |
-| **Data Flow** | Efficient handling of book indexing, issues, and return tracking. |
-| **Architecture** | Lightweight and "No-Database" approach for maximum speed. |
-
----
-
-### 📂 Other Notable Projects
-- 📝 **Epistora:** A modern blog-sharing platform using hybrid SQL & JSON storage.
-- 💰 **SaveCircle:** Community savings management with automated payment tracking.
-- 🪞 **Mirror:** Personal productivity suite with streak-tracking and daily reports.
-
----
-
-### 📊 Contributions & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🤝 Get in Touch
-<p align="left">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-<p align="center"><i>"Mathematics is the music of reason."</i></p>
+⭐ *Thanks for visiting my profile! Feel free to check out my projects and connect with me.*
