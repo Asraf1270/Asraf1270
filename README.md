@@ -31,24 +31,13 @@
 ## 🚀 Projects  
 
 **📚 OpenShelf**  
-> Community-based book sharing platform  
-- 📖 Book management  
-- 🔍 Search & browse  
-- 🤝 Borrow system  
-- 📰 Activity feed  
-- 📱 Mobile-first UI  
+> Community-based book sharing platform   
 
 **🪞 Mirror**  
-> Daily report tracking website  
-- 📝 Track daily activities  
-- 📊 Simple productivity logging  
-- 📱 Clean & minimal interface  
+> Daily report tracking website   
 
 **✍️ Epistora**  
-> Blog sharing platform  
-- 📰 Write & share blogs  
-- 📚 Read community posts  
-- 🎨 Clean reading experience  
+> Blog sharing platform   
 
 ---
 
