@@ -1,190 +1,69 @@
-# 👋 Hi, I'm Md Asraful Islam
+# Hi, I'm Md Asraful Islam 👋
 
-### Full-Stack Web Developer · Applied Mathematics Student
+**Full-Stack Web Developer** • **Applied Mathematics Student (University of Dhaka)**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Applied+Mathematics+Student;Building+Useful+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
+I build practical web applications and enjoy solving real-world problems with clean, usable software.
 
-<p align="center">
-  <a href="https://github.com/Asraf1270">
-    <img src="https://img.shields.io/badge/GitHub-Asraf1270-181717?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://github.com/Asraf1270?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-26-2F81F7?style=flat-square&logo=github" alt="Repositories"/>
-  </a>
-</p>
+## About Me
 
----
+- 🎓 Studying Applied Mathematics at the University of Dhaka
+- 💻 Focused on full-stack web development
+- 🧠 Interested in problem solving, software architecture, and open-source learning
+- 🐧 Linux/Ubuntu enthusiast
 
-## 👨‍💻 About Me
-
-I'm **Md Asraful Islam**, a student at the **University of Dhaka**, studying in the **Department of Applied Mathematics**.
-
-I'm a **Full-Stack Web Developer** interested in building practical software, exploring modern web technologies, and solving problems through programming.
-
-* 🎓 University of Dhaka
-* 📐 Department of Applied Mathematics
-* 💻 Full-Stack Web Developer
-* 🌐 Web Application Development
-* 🧠 Problem Solving & Computational Thinking
-* 🐧 Linux & Ubuntu Enthusiast
-* 🚀 Building practical and open-source projects
-
----
-
-## 🛠️ Tech Stack
+## Core Technologies
 
 ### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
+
+### Web & Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+## Featured Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [OpenShelf](https://github.com/Asraf1270/OpenShelf) | Community library management platform for sharing, borrowing, and managing books | Laravel, PHP, MySQL, Blade, JavaScript |
+| [OpenShelf-Mobile-App](https://github.com/Asraf1270/OpenShelf-Mobile-App) | Official OpenShelf mobile app (currently in development after API completion) | Flutter, Dart (planned) |
+| [badhon-react](https://github.com/Asraf1270/badhon-react) | Internal blood donor management system (planning phase) | Laravel + React + MySQL (planned) |
+| [blogsyra](https://github.com/Asraf1270/blogsyra) | Blog platform project repository | Next.js, TypeScript |
+| [AMTH-250](https://github.com/Asraf1270/AMTH-250) | Fortran programming lab notes and practice work | Fortran |
+
+➡️ [Explore all repositories](https://github.com/Asraf1270?tab=repositories)
+
+## GitHub Activity
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,fortran,php,js" alt="Programming Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Asraf1270&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asraf1270&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages"/>
 </p>
 
-**Python · C++ · Fortran · PHP · JavaScript**
+## Current Focus
 
-### Web Development
+- Improving **OpenShelf** and its surrounding ecosystem
+- Building stronger backend architecture with **Laravel/PHP**
+- Growing frontend depth with **React/Next.js**
+- Continuing academic and practical problem solving through mathematics + programming
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,laravel" alt="Web Development"/>
-</p>
+## Connect
 
-**HTML · CSS · JavaScript · React · Node.js · Laravel**
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases"/>
-</p>
-
-**MySQL · PostgreSQL**
-
-### Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu" alt="Tools"/>
-</p>
-
-**Git · GitHub · VS Code · Linux · Ubuntu**
+- GitHub: [@Asraf1270](https://github.com/Asraf1270)
 
 ---
 
-# ⭐ Best Project
-
-## 📚 OpenShelf
-
-**OpenShelf** is my flagship project — a modern **library management and book-sharing platform** focused on making books easier to discover, organize, and share.
-
-<p align="center">
-  <a href="https://github.com/Asraf1270/OpenShelf">
-    <img src="https://img.shields.io/badge/⭐%20View%20OpenShelf-2C3E50?style=for-the-badge&logo=github" alt="OpenShelf"/>
-  </a>
-</p>
-
-### Built With
-
-**PHP · MySQL · HTML · CSS · JavaScript**
-
-> 📖 Building a better way to discover, manage, and share books.
-
----
-
-# 🚀 Selected Projects
-
-| Project                                                      | Description                       | Technology |
-| ------------------------------------------------------------ | --------------------------------- | ---------- |
-| 📚 [OpenShelf](https://github.com/Asraf1270/OpenShelf)       | Library Management & Book Sharing | PHP        |
-| 🩸 [badhon-react](https://github.com/Asraf1270/badhon-react) | Blood Donor Management System     | React      |
-| ✍️ [blogsyra](https://github.com/Asraf1270/blogsyra)         | Blogging Platform                 | TypeScript |
-| 📖 [Epistora](https://github.com/Asraf1270/Epistora)         | Web Application                   | PHP        |
-
-[→ Explore all repositories](https://github.com/Asraf1270?tab=repositories)
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/Asraf1270?achievement=quickdraw&tab=achievements">
-    <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="100" alt="Quickdraw"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Asraf1270?achievement=pair-extraordinaire&tab=achievements">
-    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="100" alt="Pair Extraordinaire"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Asraf1270?achievement=pull-shark&tab=achievements">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Asraf1270?tab=achievements">
-    <b>View all GitHub achievements →</b>
-  </a>
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asraf1270&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asraf1270&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Asraf1270&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asraf1270&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-# 🎯 Currently Interested In
-
-* 🌐 Full-Stack Web Development
-* ⚛️ React & Modern Frontend Development
-* 🚀 Laravel & PHP
-* 🐍 Python Development
-* 🧩 Software Architecture
-* 🗄️ Database Design
-* 🐧 Linux & Ubuntu
-* 🧮 Applied Mathematics & Computing
-* 💡 Open-Source Software
-
----
-
-# 🧠 Development Philosophy
-
-> **Learn → Build → Break → Fix → Improve → Repeat**
-
-I believe the best way to learn programming is to **build real projects**.
-
-Every project is an opportunity to learn something new, solve a real problem, experiment with technology, and become a better developer.
-
----
-
-# 📫 Connect
-
-<p align="center">
-  <a href="https://github.com/Asraf1270">
-    <img src="https://img.shields.io/badge/GitHub-Asraf1270-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building ideas into useful software, one project at a time.</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+I’m always open to collaborating on useful web projects and learning opportunities.
