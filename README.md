@@ -46,6 +46,12 @@ I build practical web applications and enjoy solving real-world problems with cl
 
 ➡️ [Explore all repositories](https://github.com/Asraf1270?tab=repositories)
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asraf1270&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asraf1270&theme=transparent&hide_border=true" height="165" />
+</p>
 ## GitHub Activity
 
 <p>
